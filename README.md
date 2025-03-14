@@ -1,1 +1,2 @@
 # NHOM21-PTTKHT
+Trong năm qua, BKshop- hệ thống quà tặng Trường Đại học Bách khoa Hà Nội, đã giới thiệu rất nhiều loại sản phẩm, đồ lưu niệm, từ chiếc bao lì xì nhỏ xinh dịp Tết Nguyên Đán cho đến đa dạng các loại trang phục mang đặc trưng riêng của Trường. Tuy nhiên, hệ thống chưa triển khai bán hàng online, mặc dù đây là xu thế trong nhiều năm gần đây và giúp sản phẩm đến tay người tiêu dùng dễ dàng hơn.
