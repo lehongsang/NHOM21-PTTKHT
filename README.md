@@ -1,3 +1,2 @@
 Trong năm qua, BKshop- hệ thống quà tặng Trường Đại học Bách khoa Hà Nội, đã giới thiệu rất nhiều loại sản phẩm, đồ lưu niệm, từ chiếc bao lì xì nhỏ xinh dịp Tết Nguyên Đán cho đến đa dạng các loại trang phục mang đặc trưng riêng của Trường. Tuy nhiên, hệ thống chưa triển khai bán hàng online, mặc dù đây là xu thế trong nhiều năm gần đây và giúp sản phẩm đến tay người tiêu dùng dễ dàng hơn.
-
-git clone ve may. them ... 
+ Nhận thấy các vấn đề trên, nhóm hướng đến thiết kế hệ thống cung cấp dịch vụ bán hàng online cho BKshop. Từ đó có thể giúp cho các bạn sinh viên Trường Đại học Bách khoa nói riêng và những người yêu thương hiệu Bách khoa Hà Nội nói chung dễ dàng tiếp cận hơn đến những sản phẩm, món quà lưu niệm tuyệt vời này. Ngoài ra, hệ thống cũng được sử dụng khi các bạn sinh viên có nhu cầu mua đồ dùng học tập, áo đồng phục,... nhưng mặt hàng chính vẫn là "đồ lưu niệm" của đại học Bách khoa Hà Nội
